@@ -4,7 +4,7 @@ all:
 
 setup:
 	sudo apt-get update
-	sudo apt-get install -y emacs24-nox
+	sudo apt-get install -y emacs24-nox xrdp
 
 disk:
 	df -h
